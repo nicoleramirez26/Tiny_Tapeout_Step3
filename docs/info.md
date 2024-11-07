@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 NAND FlipFlop
 Explain how your project works
-
+Using 4 NAND gates and a clock. Also has a 'regular' D flip flop for testing
 ## How to test
 
 Explain how to use your project
