@@ -14,7 +14,8 @@ Using 4 NAND gates and a clock. Also has a 'regular' D flip flop for testing
 ## How to test
 
 Explain how to use your project
-
+Click Buttons
 ## External hardware
-
+LEDs and switches
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs
